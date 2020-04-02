@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
     // In the shared preferences is stored the speed factor to use
     private void getFactor() {
         SharedPreferences save = getSharedPreferences("factor", 0);
-        factor = save.getFloat("factor", (float) 2.0);
+        factor = save.getFloat("factor", (float) 10.0);//2.0 to 10.0
     }
 
     // SAVE NEW SPEED FACTOR -----------------------------------------------------------------------
