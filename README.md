@@ -5,6 +5,7 @@
 **NOTE: Supported on Andoird 7.1 or newer**
 
 *AudioSpeedUp* is the open source app for Android for reproducing at different speed your audio files. Select a sound to play, such as WhatsApp voice notes, and select *AudioSpeedUp* from the share button. This app has been developed with non-profit intent by Lorenzo D'Auria for helping people who are to busy for listening to slow voice notes.
+This is a fork of it that adds 10x speed. (not tested yet since github is having some problems right now).
 
 _**For italian users**: This project has been presented also in video on [YouTube](https://youtu.be/IKIYfGBtt2g)._
 
